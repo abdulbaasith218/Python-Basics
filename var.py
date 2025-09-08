@@ -1,0 +1,9 @@
+x=10
+y=20
+a=6
+b=8
+p='5'
+q='9'
+print(x+y)
+print("a+b")
+print(p+q)
