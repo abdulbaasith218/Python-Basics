@@ -1,6 +1,9 @@
 #now i am going to make a relationship between dad and test
 #it means parential relationship
 
+
+#these are single level inheritance
+
 class dad:
     def house(self):   #parent
         print('i am from dad class')
