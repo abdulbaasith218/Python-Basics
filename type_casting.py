@@ -17,6 +17,6 @@ print(type(b))
 
 print(type(z))
 c=float(z)      #casting
-print(type(c)
+print(type(c))
 
 #we will change only possible types
